@@ -7,7 +7,7 @@ h1 {
  /* #ff8100;*/
 }
 .asciiart-wrap {
-  background: #fff;
+  background: #ebf4ec;
 }
 
 
@@ -21,7 +21,7 @@ h1 {
   text-fill-color: transparent;
   word-break: break-all;
   color: #fff;
-  font-family: monospace;
+  font-family: 'Raleway Dots', cursive;;
   font-size: 8px;
   font-weight: bold;
   letter-spacing: -1px;
@@ -36,7 +36,7 @@ h1 {
 
 
 .art-1 {
-  background-image: url(assets/goule.png);
+  background-image: url(WORK/PEINTURE2.jpg);
 }
 
 

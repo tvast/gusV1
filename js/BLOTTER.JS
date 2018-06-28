@@ -173,9 +173,9 @@
         this.mainImage = _mainImageSrc();
         this.uniforms = {
           uOffset : { type : "1f", value : 0.05 },
-          uRotation : { type : "1f", value : 45.0 },
-          uApplyBlur : { type : "1f", value : 1.0 },
-          uAnimateNoise : { type : "1f", value : 1.0 }
+          uRotation : { type : "1f", value : 12.0 },
+          uApplyBlur : { type : "1f", value : 2.0 },
+          uAnimateNoise : { type : "1f", value : 3.0 }
         };
       }
     };

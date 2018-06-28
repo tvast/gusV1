@@ -9,5 +9,3 @@ function makeid() {
 ''
   return originalString.innerHTML =(text);
 }
-
-console.log(makeid());
